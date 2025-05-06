@@ -1,0 +1,26 @@
+{
+    "id": "2CE297ED",
+    "path": "C:/Users/Ryan/OneDrive/ML bike R scripting 3-25/census_dataset_processor.R",
+    "project_path": "census_dataset_processor.R",
+    "type": "r_source",
+    "hash": "3009123621",
+    "contents": "",
+    "dirty": false,
+    "created": 1742949802946.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "226,28",
+        "scrollLine": "211"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1742951940,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1742951940682,
+    "read_only": false,
+    "read_only_alternatives": []
+}

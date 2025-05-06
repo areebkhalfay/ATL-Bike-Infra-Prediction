@@ -1,0 +1,10 @@
+pca4_bike_volume_model_net_3layers_lr_0.00005000_batch_64_pca_29.pth
+* Current best model as of 4/9. Approx 0.60 R^2 value
+
+Hyperparameters:
+layers = [3]
+dropout_percent = [0.4]
+learning_rate = [0.00005]
+batch_size = [64]
+num_epoch = 28000
+weight_decay = [0.003]
